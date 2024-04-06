@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AydieGit
 - 👀 I’m interested in learn how to code
 - 🌱 I’m currently learning Python
-- 📫 How to reach me through email, kings1236@gmai.com
+- 📫 How to reach me through email, kingss1236@gmail.com
 
 
 <!---
